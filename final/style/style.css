@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:300|Nunito:300');
+
+h1 {
+	font-family: 'Muli', sans-serif;
+	text-align: center;
+	font-size: 80px;
+	font-weight: lighter;
+	margin-bottom: 90px;
+}
+
+a {
+	color: rgb(255, 77, 77);
+	text-decoration: none;
+	font-weight: bold;
+}
+
+
+.important {
+	font-weight: bold;
+}
+
+#about {
+	text-align: left;
+	margin-left: 200px;
+	margin-top: 100px;
+	padding-top: 50px;
+    padding-bottom: 50px;
+	font-size: 40px;
+	font-family: 'Nunito', sans-serif;
+}
+
+#onetext {
+	text-align: left;
+	text-align: justify;
+	margin-left: 95px;
+	margin-top: -90px;
+	font-size: 20px;
+	font-family: 'Muli', sans-serif;
+	width: 16em; 
+    word-wrap: break-word;
+
+}
+
+#what{
+	text-align: center;
+	margin-top: -175px;
+	padding-bottom: 50px;
+	font-size: 40px;
+	font-family: 'Nunito', sans-serif;
+    margin-right: 30px;
+}
+
+#twotext{
+	text-align: center;
+	text-align: justify;
+	margin-top: -90px;
+	margin-left: 500px;
+	font-size: 20px;
+	font-family: 'Muli', sans-serif;
+	width: 16em; 
+    word-wrap: break-word;
+}
+
+#skills{
+	text-align: center;
+	margin-top: -175px;
+	margin-left: 900px;
+	padding-bottom: 50px;
+	font-size: 40px;
+	font-family: 'Nunito', sans-serif;
+    margin-right: 30px;
+}
+
+#threetext{
+	text-align: justify;
+	margin-right: 50px;
+	margin-top: -90px;
+	margin-left: 950px;
+	font-size: 20px;
+	font-family: 'Muli', sans-serif;
+	width: 16em; 
+    word-wrap: break-word;
+}
+
+#blockquoteone{
+	font-family: 'Muli', sans-serif;
+	text-align: center;
+	font-size: 60px;
+	font-weight: lighter;
+	margin-bottom: 90px;
+	word-spacing: 200px;
+
+}
+
+#blockquote{
+	text-align: center;
+	margin-top: 90px;
+	font-size: 40px;
+	font-family: 'Nunito', sans-serif;
+    padding-right: 30px;
+}
+
+.gram{
+	margin-top: 50px;
+    margin-left:600px;
+}
+
+.tweet{
+	margin-right: 800px;
+	margin-top: -100px;	
+}
+
+.book{
+	margin-top: -125px;
+    margin-left:770px;
+}
+
+.me{
+	margin-top: -30px;
+    margin-left:550px;
+}
+
+
+#social{
+	text-align: center;
+	margin-top: 30px;
+	font-size: 20px;
+	font-family: 'Nunito', sans-serif;
+    padding-right: 30px;
+}
+
+button{
+	margin-top: 50px;
+    margin-left:585px;
+	font-size: 20px;
+	font-family: 'Nunito', sans-serif;
+	border-radius: 2px;
+	background-color: white;
+	color: black;
+	box-shadow: 0 12px 16px 0, 0 17px 50px;
+
+   
+}
